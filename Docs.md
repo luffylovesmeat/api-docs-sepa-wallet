@@ -1,5 +1,3 @@
-Certainly! Here's a formatted version of the API documentation for Crypto On-Ramp/Off-Ramp:
-
 ## API Documentation for Crypto On-Ramp/Off-Ramp
 
 ### Authentication
